@@ -1,0 +1,9 @@
+openai
+pinecone-client
+requests
+numpy
+flask  # or fastapi if you prefer
+transformers
+faiss-cpu  # optional, if you're using Faiss for vector search
+scikit-learn
+python-dotenv
